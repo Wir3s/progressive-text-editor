@@ -2,7 +2,7 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-  The back-end of a social network site, with users able to post their thoughts. Users can add other users as friends, as well as react to the thoughts of other users. 
+  A very nifty text editor indeed. Text will be saved each time you click out of the main browser window. Revisit and your content will be there waiting for you. You can also install the app to your desktop!
 
 ## Table of Contents
   [Installation](#installation)  
@@ -13,13 +13,13 @@
   [Questions](#questions)
 
 ## Installation
-  The packages Express and Mongoose are required, so it is necssary to install those first. After this, simply running 'node index.js' from the terminal will run the program.
+  No installation is required, however you can click the 'Install' button to save the app to your desktop if desired.
 
 ## Usage
-  It can be used by running 'node index.js' from the terminal.
+  Simply visit https://warm-badlands-75057.herokuapp.com/ to use the app.
 
   
-  [Link to video of application in action](https://drive.google.com/file/d/1nXjNQWmXqXJ8Z-LmfNuTt_D8XSpMbMAY/view)
+  [Screenshot](jate-text-editor.png)
 
 ## Contributing
   Any contribution suggestions are welcome.
